@@ -2,6 +2,9 @@
 
 A full-stack food review classifier that predicts whether a sentence is **tasty** or **not tasty** using a manually implemented **Multinomial Naive Bayes** model with **Laplace smoothing**.
 
+<img width="1901" height="867" alt="image" src="https://github.com/user-attachments/assets/664b52f5-dccf-415c-a7fb-3f73116ac9c6" />
+
+
 ## Overview
 
 This project contains:
